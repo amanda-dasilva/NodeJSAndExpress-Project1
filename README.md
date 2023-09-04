@@ -65,5 +65,5 @@ To download this Node.js project with Express from GitHub and run it using Visua
 7. **Access the Application:**
    Open your web browser and navigate to `http://localhost:3000`.
 
-Now you should have the Node.js/Express project from GitHub running in VSCode.
+Now you should have this Node.js/Express project from GitHub running in VSCode.
 
