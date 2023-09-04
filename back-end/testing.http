@@ -1,0 +1,1 @@
+GET http://localhost:3000/emojis HTTP/1.1
